@@ -5,7 +5,7 @@ A. Anand, K. Prasad, C. Kirtani, et al. (2025). Multilingual mathematical reason
 
 A. Anand, Janak, Apoorv, A. Verma, and R. R. Shah (2024). Mm-phyqa: Multimodal physics question-answering with multi-image cot prompting. PAKDD-24, Taiwan: PAKDD. [[Paper]](https://link.springer.com/chapter/10.1007/978-981-97-2262-4_5)
 
-A. Anand, K. Addala, K. Baghel, et al. (2023). Revolutionizing high school physics education: A novel dataset. 2023 Conference on Big Data and Artificial Intelligence, New Delhi, India: IEEE Computer Society. [Paper]
+A. Anand, K. Addala, K. Baghel, et al. (2023). Revolutionizing high school physics education: A novel dataset. 2023 Conference on Big Data and Artificial Intelligence, New Delhi, India: IEEE Computer Society. [[Paper]]()
 
 A. Anand, A. Goel, M. Hira, et al. (2023). Sciphyrag - retrieval augmentation to improve llms on physics q&a. 2023 Conference on Big Data and Artificial Intelligence, New Delhi, India: IEEE Computer Society. [Paper]
 
