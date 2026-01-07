@@ -99,7 +99,9 @@
                     <li class="nav-item">
                         <a class="nav-link me-lg-3" href="#awards">AWARDS</a>
                     </li>
-
+                    <li class="nav-item">
+                        <a class="nav-link me-lg-3" href="#references">REFERENCES</a>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -159,6 +161,13 @@
     </section>
     <!-- Awards -->
 
+    <!-- References Section -->
+    <section id="references">
+        <div class="container px-5">
+            <h2 class="text-center">References</h2>
+            <div id="references-content"></div>
+        </div>
+    </section>
 
     <!-- Footer-->
     <footer class="bg-bottom text-center py-5">
@@ -171,6 +180,18 @@
             </div>
         </div>
     </footer>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            fetch("contents/references.md")
+                .then((response) => response.text())
+                .then((markdown) => {
+                    const htmlContent = marked.parse(markdown); // Convert Markdown to HTML
+                    document.getElementById("references-content").innerHTML = htmlContent;
+                })
+                .catch((error) => console.error("Error loading references:", error));
+        });
+    </script>
 
 </body>
 
