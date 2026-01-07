@@ -1,16 +1,25 @@
-#### Submitted
-
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
 
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+A. Anand, K. Prasad, C. Kirtani, et al. (2025). Multilingual mathematical reasoning: Advancing open-source llms in hindi and english. Proceedings of the AAAI Conference on Artificial Intelligence.  [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34509)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+A. Anand, Janak, Apoorv, A. Verma, and R. R. Shah (2024). Mm-phyqa: Multimodal physics question-answering with multi-image cot prompting. PAKDD-24, Taiwan: PAKDD. [[Paper]](https://link.springer.com/chapter/10.1007/978-981-97-2262-4_5)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+A. Anand, K. Addala, K. Baghel, et al. (2023). Revolutionizing high school physics education: A novel dataset. 2023 Conference on Big Data and Artificial Intelligence, New Delhi, India: IEEE Computer Society. [Paper]
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+A. Anand, A. Goel, M. Hira, et al. (2023). Sciphyrag - retrieval augmentation to improve llms on physics q&a. 2023 Conference on Big Data and Artificial Intelligence, New Delhi, India: IEEE Computer Society. [Paper]
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+A. Anand, M. Gupta, K. Prasad, et al. (2023). Kg-ctg: Citation generation through knowledge graph-guided large language models. 2023 Conference on Big Data and Artificial Intelligence, New Delhi, India: IEEE Computer Society. [Paper]
+
+A. Anand, M. Gupta, K. Prasad, et al. (2023). Mathify: Evaluating large language models on mathematical problem-solving tasks. GAIED, New Orleans: Neural Information Processing Systems. [Paper]
+
+A. Anand, A. Jairath, N. Lal, et al. (2023). Gec-dcl: Grammatical error correction model with dynamic context learning for paragraphs & scholarly papers. 2023 Conference on Big Data and Artificial Intelligence, New Delhi, India: IEEE Computer Society. [Paper]
+
+A. Anand, R. Jaiswal, P. Bhuyan, et al. (2023). Tc-ocr: Tablecraft ocr for efficient detection & recognition of table structure & content. Proceedings of the 1st International Workshop on Deep Multimodal Learning for Information Retrieval. [Paper]
+
+A. Anand, R. Jaiswal, M. Gupta, et al. (2023). Ranlaynet: A dataset for document layout detection used for domain adaptation and generalization. ACM Multimedia Asia 2023 (MMAsia ’23). [Paper]
+
+A. Anand, K. Prasad, U. Goel, et al. (2023). Context-enhanced language models for generating multi-paper citations. 2023 Conference on Big Data and Artificial Intelligence, New Delhi, India: IEEE Computer Society. [Paper]
+
+A. Goel, M. Hira, A. Anand, S. Bangar, and D. R. R. Shah (2023). Advancements in scientific controllable text generation methods. arXiv. [Paper]
 
