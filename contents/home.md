@@ -24,5 +24,4 @@ Graphs, Collaborative Filtering, Data structures and algorithms, Information Ret
 Bachelor of Technology, IIIT Jabalpur in Computer Science and Engineering,2010-2014
 
 #### Research Interests
-Natural language processing, large language models (pre-training, alignment, and multilingual systems), multimodal LLMs for accident detection and medical imaging.
-As my cu
+Research Interests: Natural language processing, large language models (pre-training, alignment, and multilingual systems), multimodal LLMs for accident detection and medical imaging
