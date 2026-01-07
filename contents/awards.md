@@ -1,5 +1,5 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Best paper Award-2024 IEEE International Joint Conference on Biometrics (ĲCB)
 
 - National Scholarship for Graduate Students (Ministry of Education, China), 2024.
 
