@@ -11,9 +11,10 @@ My work spans **LLM architectures, optimization, and task-specific model develop
 
 #### Contact
 
-Email: avinasha@iiitd.ac.in
-Google Scholar:[[Google Scholar]]( https://scholar.google.com/citations?user=7rlMvFMAAAAJ&hl=en)
-Linkedin:
+**Email:** avinasha@iiitd.ac.in  
+**Google Scholar:** https://scholar.google.com/citations?user=7rlMvFMAAAAJ&hl=en  
+**LinkedIn:** https://www.linkedin.com/in/your-linkedin-username/
+
 
 #### Education
 PhD Research Scholar, IIIT Delhi, India.
