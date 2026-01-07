@@ -3,7 +3,7 @@
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
 
-Research Interests: Natural language processing, large language models (pre-training, alignment, and multilingual systems), multimodal LLMs for accident detection and medical imaging.
+Research Interests<strong>: Natural language processing, large language models (pre-training, alignment, and multilingual systems), multimodal LLMs for accident detection and medical imaging.
 As my current focus is on building LLM pre-training pipelines—from kernel-level optimization
 and ultrascale GPU parallelism to LLM algorithmic improvements like FlashAttention-4 and posttraining methods such as GRPO—my research centers on advancing Large Language Models and
 multimodal generative AI. The aim is to design robust and efficient systems that integrate text and
@@ -20,6 +20,7 @@ PhD Research Scholar, IIIT Delhi, India.
 Thesis title: Multimodal Systems For Scientific and Educational Applications,
 Courses: Large Language Models(LLMs), Natural Language Processing, Knowledge
 Graphs, Collaborative Filtering, Data structures and algorithms, Information Retrieval,2021 - 2024.
+
 B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
 
 #### Research Interests
