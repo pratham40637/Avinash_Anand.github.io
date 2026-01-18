@@ -12,8 +12,8 @@ My work spans **LLM architectures, optimization, and task-specific model develop
 #### Contact
 
 **Email:** avinasha@iiitd.ac.in  
-**Google Scholar:** https://scholar.google.com/citations?user=7rlMvFMAAAAJ&hl=en  
-**LinkedIn:** https://www.linkedin.com/in/your-linkedin-username/
+**Google Scholar:** [[Google Scholar]](https://scholar.google.com/citations?user=7rlMvFMAAAAJ&hl=en)
+**LinkedIn:** [[Linkedin]] (https://www.linkedin.com/in/avinanand/?originalSubdomain=sg)
 
 
 #### Education
@@ -22,7 +22,7 @@ Thesis title: Multimodal Systems For Scientific and Educational Applications,
 Courses: Large Language Models(LLMs), Natural Language Processing, Knowledge
 Graphs, Collaborative Filtering, Data structures and algorithms, Information Retrieval,2021 - 2024.
 
-Bachelor of Technology, IIIT Jabalpur in Computer Science and Engineering,2010-2014
+
 
 #### Research Interests
 Research Interests: Natural language processing, large language models (pre-training, alignment, and multilingual systems), multimodal LLMs for accident detection and medical imaging

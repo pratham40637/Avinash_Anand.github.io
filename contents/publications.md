@@ -7,7 +7,9 @@ A. Anand, Janak, Apoorv, A. Verma, and R. R. Shah (2024). Mm-phyqa: Multimodal p
 
 A. Anand, K. Addala, K. Baghel, et al. (2023). Revolutionizing high school physics education: A novel dataset. 2023 Conference on Big Data and Artificial Intelligence, New Delhi, India: IEEE Computer Society. [[Paper]]()
 
-A. Anand, A. Goel, M. Hira, et al. (2023). Sciphyrag - retrieval augmentation to improve llms on physics q&a. 2023 Conference on Big Data and Artificial Intelligence, New Delhi, India: IEEE Computer Society. [Paper]
+A. Anand, A. Goel, M. Hira, et al. (2023). Sciphyrag - retrieval augmentation to improve llms on physics q&a. 2023 Conference on Big Data and Artificial Intelligence, New Delhi, India: IEEE Computer Society. [[Paper]](
+    
+)
 
 A. Anand, M. Gupta, K. Prasad, et al. (2023). Kg-ctg: Citation generation through knowledge graph-guided large language models. 2023 Conference on Big Data and Artificial Intelligence, New Delhi, India: IEEE Computer Society. [Paper]
 
