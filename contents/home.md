@@ -9,11 +9,13 @@ My research focuses on **building large-scale LLM pre-training pipelines**, span
 
 My work spans **LLM architectures, optimization, and task-specific model development**, with an emphasis on **multilingual, cross-lingual, and mathematical reasoning capabilities**. I also explore **multimodal mental health detection** and **vision-based applications**, including **road accident detection, traffic analysis, and maritime tracking**. Overall, my goal is to design **impactful AI systems** that advance **healthcare, transportation, and software engineering**, while meaningfully improving **quality of life**.
 
-#### Contact
+
+#### Contact  
 
 **Email:** avinasha@iiitd.ac.in  
-**Google Scholar:** [[Google Scholar]](https://scholar.google.com/citations?user=7rlMvFMAAAAJ&hl=en)
-**LinkedIn:** [[Linkedin]] (https://www.linkedin.com/in/avinanand/?originalSubdomain=sg)
+**Google Scholar:** [Google Scholar](https://scholar.google.com/citations?user=7rlMvFMAAAAJ&hl=en)  
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/avinanand/?originalSubdomain=sg)  
+
 
 
 #### Education
