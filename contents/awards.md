@@ -5,4 +5,4 @@
 
 - IIIT-Delhi Dean IRD Research Excellence Award for my PhD research- 2023
 
--Governors medal for best PhD thesis
+- Governors medal for best PhD thesis
