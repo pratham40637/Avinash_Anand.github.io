@@ -1,4 +1,4 @@
-# References
+
 Dr. Rajiv Ratn Shah, Associate/Chair Professor, IIIT Delhi.
 
 Dr. Yaman Kumar Singla, Adobe, IIIT Delhi
