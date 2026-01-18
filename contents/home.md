@@ -19,10 +19,10 @@ My work spans **LLM architectures, optimization, and task-specific model develop
 
 
 #### Education
-PhD Research Scholar, IIIT Delhi, India.
+PhD , IIIT Delhi, India.
 Thesis title: Multimodal Systems For Scientific and Educational Applications,
 Courses: Large Language Models(LLMs), Natural Language Processing, Knowledge
-Graphs, Collaborative Filtering, Data structures and algorithms, Information Retrieval,2021 - 2024.
+Graphs, Collaborative Filtering, Data structures and algorithms, Information Retrieval,**2021 - 2024**.
 
 
 
